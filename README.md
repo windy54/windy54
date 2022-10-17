@@ -6,7 +6,7 @@ A member of Leicester Hackspace.
 - 🌱 I’m currently learning time management :) , I naively thought that lockdown would enable me to complete many of the projects I have got
 on the go. It has not!
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me stevespi@virginmedia.com
+- 📫 How to reach me stevegale54@gmail.com
 
 <!---
 windy54/windy54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
